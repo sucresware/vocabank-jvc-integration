@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Intégration Vocabank pour JVC
-// @namespace    https://4sucres.org/
+// @namespace    https://github.com/4sucres/vocabank-jvc-integration/
+// @author		 4sucres.org
 // @version      1.0
 // @match        http://www.jeuxvideo.com/forums/*
 // @match        http://m.jeuxvideo.com/forums/*
